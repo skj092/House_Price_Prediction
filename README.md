@@ -13,3 +13,6 @@
 **Models**
 - Linear Regression
 - Random Forest
+
+**Final Accuracy**
+- Root-Mean-Squared-Error (RMSE) - 0.1473
